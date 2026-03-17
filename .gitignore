@@ -1,0 +1,10 @@
+Set-Content -Path .gitignore -Value @"
+**/.terraform/
+**/.terraform.lock.hcl
+**/*.tfstate
+**/*.tfstate.backup
+**/*.pem
+node_modules/
+package-lock.json
+*.log
+"@

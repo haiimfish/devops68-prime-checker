@@ -1,0 +1,8 @@
+{
+  "name": "devops68-prime-checker",
+  "version": "1.0.0",
+  "description": "API to check if a number is prime",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "license": "MIT"
+}
