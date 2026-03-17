@@ -7,7 +7,7 @@ Check if a number is prime.
 ### GET `/check`
 
 **1.เข้าสู่ระบบ:**
-``` az login  # เข้า Account Azure ของตัวเอง
+```az login     # เข้า Account Azure ของตัวเอง
 ```
 
 **2.สร้าง Infra**
